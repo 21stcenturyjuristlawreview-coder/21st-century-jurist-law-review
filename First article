@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Constitutional Law Article</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+  <h1>Constitutional Law in South Africa</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="articles.html">Articles</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<section class="section">
+  <div class="container">
+
+    <p>
+      Constitutional law in South Africa forms the backbone of democratic governance.
+      It ensures that all laws and actions by the state are consistent with the Constitution.
+    </p>
+
+    <p>
+      The Bill of Rights protects fundamental freedoms such as equality, dignity, and freedom of expression.
+      Courts play a crucial role in interpreting these rights.
+    </p>
+
+    <p>
+      This article explores how constitutional principles shape modern legal decisions.
+    </p>
+
+  </div>
+</section>
+
+</body>
+</html>
