@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact - 21st Century Jurist Law Review</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="header">
+    <h1>Contact Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="section">
+    <div class="container">
+
+      <h2>Get In Touch</h2>
+      <p>
+        We welcome contributions, collaborations, and academic discussions from students and researchers.
+      </p>
+
+      <h3>Email</h3>
+      <p>📩 yourlawreview@email.com</p>
+
+      <h3>Contributions</h3>
+      <p>
+        If you would like to publish an article, please ensure it is original, well-researched,
+        and focused on legal analysis or commentary.
+      </p>
+
+      <h3>Response Time</h3>
+      <p>
+        We aim to respond to all inquiries within 2–5 working days.
+      </p>
+
+    </div>
+  </section>
+
+</body>
+</html>
