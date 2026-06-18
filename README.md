@@ -18,7 +18,7 @@ Our mission is to:
 
 ---
 
-## ⚖️ What We Publish
+##  What We Publish
 
 We focus on high-quality legal content including:
 - Constitutional Law analysis
@@ -37,7 +37,7 @@ This platform is open to contributors who are passionate about law and legal edu
 
 ---
 
-## 📝 Contribution Guidelines
+##  Contribution Guidelines
 
 We welcome contributions from students and researchers.
 
@@ -49,14 +49,14 @@ To contribute:
 
 ---
 
-## 📩 Contact
+## Contact
 
 For contributions, collaborations, or inquiries:
 
-Email: yourlawreview@email.com
+Email: 21stcenturylawreview@gmail.com
 
 ---
 
-## ⚖️ License
+## License
 
 This project is licensed under the MIT License.
