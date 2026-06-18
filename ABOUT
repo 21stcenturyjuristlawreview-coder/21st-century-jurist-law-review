@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About - 21st Century Jurist Law Review</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="header">
+    <h1>About Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="section">
+    <div class="container">
+
+      <h2>Who We Are</h2>
+      <p>
+        The <strong>21st Century Jurist Law Review</strong> is a student-led legal publication platform
+        dedicated to promoting legal education, critical thinking, and academic writing within South African law
+        and global legal systems.
+      </p>
+
+      <h2>Our Purpose</h2>
+      <p>
+        We aim to create a space where law students and aspiring jurists can express ideas,
+        publish legal analysis, and engage with real legal issues affecting society today.
+      </p>
+
+      <h2>Our Vision</h2>
+      <p>
+        To become a respected student legal journal that develops future legal minds and contributes
+        meaningfully to discussions on justice, rights, and constitutional development.
+      </p>
+
+    </div>
+  </section>
+
+</body>
+</html>
